@@ -1,6 +1,8 @@
 You should have Python installed
 https://www.python.org/downloads/
 
+Download the file from this github named BmpToVizzy.py
+You can read this file in a regular text editor.
 
 To run this program, open a cmd prompt in the directory where BmpToVizzy.py is located and type
 python BmpToVizzy.py image.bmp
